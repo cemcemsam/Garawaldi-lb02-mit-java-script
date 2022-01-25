@@ -1,0 +1,2 @@
+# online_Portfolio_Garawaldi_2021_javaScript
+ javascript projekt gara
